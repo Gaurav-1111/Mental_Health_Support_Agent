@@ -12,7 +12,7 @@ Built using Groq API and Streamlit, this chatbot can help users manage stress an
 
 
 🖥️ Demo
-🎯 Live Demo (If deployed): https://mentalhealthanalyserchatbot-hbiuazk354jcdf7svwjtmh.streamlit.app/
+🎯 Live Demo: https://mentalhealthsupportagent-fgzbjyesabkwpaza66rsvr.streamlit.app/
 
 🛠️ Technologies Used
 Streamlit → Interactive UI
